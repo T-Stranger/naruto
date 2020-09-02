@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/aispringcloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/eurekaclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/nativeconfigclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/nativeconfigserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/resttemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/zuul" charset="UTF-8" />
+  </component>
+</project>

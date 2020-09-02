@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/aispringcloud.iml" filepath="$PROJECT_DIR$/aispringcloud/aispringcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/consumer/consumer.iml" filepath="$PROJECT_DIR$/aispringcloud/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/create-project/create-project.iml" filepath="$PROJECT_DIR$/create-project/create-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/aispringcloud/eurekaclient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/aispringcloud/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/feign/feign.iml" filepath="$PROJECT_DIR$/aispringcloud/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/aispringcloud/hystrix/hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/nativeconfigclient/nativeconfigclient.iml" filepath="$PROJECT_DIR$/aispringcloud/nativeconfigclient/nativeconfigclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/nativeconfigserver/nativeconfigserver.iml" filepath="$PROJECT_DIR$/aispringcloud/nativeconfigserver/nativeconfigserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/resttemplate/resttemplate.iml" filepath="$PROJECT_DIR$/aispringcloud/resttemplate/resttemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/aispringcloud/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/zuul/zuul.iml" filepath="$PROJECT_DIR$/aispringcloud/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
